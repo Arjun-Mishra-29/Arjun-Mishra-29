@@ -1,7 +1,8 @@
-# 👋 Hey, I'm Arjun Mishra 
+# 👋 Hey, I'm Arjun Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-🎓 2nd Year Computer Science Undergrad | 🤖 AI Enthusiast | 🛠 Tech Explorer  
-Welcome to my GitHub! I'm passionate about solving real-world problems through Artificial Intelligence, Embedded Systems, and Full Stack Development. I love experimenting with new tech and building futuristic systems 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Machine+Learning+Explorer;Game+Developer" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -11,47 +12,32 @@ Welcome to my GitHub! I'm passionate about solving real-world problems through A
   - Smart assistants like **Project JARVIS**
   - Predictive models with **TensorFlow**, **PyTorch**, **Scikit-learn**
 
-- 📷 **Computer Vision & Embedded AI**
-  - Real-time systems using **Jetson Nano**, **YOLOv8**, **OpenCV**
-  - Projects like **Traffic Signal Automation** & **Autonomous Parking**
-
-- 🌐 **Full Stack Development**
-  - Backend with **FastAPI**, **Flask**, **MongoDB**
-  - Frontend experiments with **React**, **Tailwind CSS**
-
-- 📡 **IoT + AI**
-  - Sensor integration for projects like **Aircraft Predictive Maintenance**
-
-- 🧠 **Game Development & 3D Modeling**
-  - Exploring **Unity** for interactive apps
-  - Using **Blender** for 3D design and simulation
+- 🎮 **Game Dev & 3D Modeling**
+  - Exploring **Unity** for interactive game environments  
+  - Designing and animating assets using **Blender**
 
 ---
 
-## 🚀 Projects I'm Building
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/70828580/136641796-5bdf0413-cb4a-4f2e-9c5b-45c41e42f379.gif" width="300" />
+</p>
 
-| Project                             | Tech Stack                                       | Description |
-|-------------------------------------|--------------------------------------------------|-------------|
-| **Project JARVIS**                  | Python, NLP, AI                                  | Personal AI assistant with automation & reasoning |
-| **Traffic Signal Automation System**| Jetson Nano, OpenCV, YOLOv8                      | Detects vehicle density and controls signals dynamically |
-| **Lane-Aware Autonomous Parking**   | CV, Path Planning, Python                        | Smart system for lane detection and parking logic |
-| **Aircraft Predictive Maintenance** | IoT, ML, Sensor Data                             | Predicts faults in aircraft components before failure |
+## 🚀 Key Projects
 
----
-
-## 📈 Stats
-
-![Arjun Mishra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjunmistra&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunistra&layout=compact&theme=radical)
+| Project              | Tech Stack             | Description                                          |
+|----------------------|-----------------------|----------------------------------------------------|
+| **Project JARVIS**   | Python, NLP, AI       | Personal AI assistant with voice, vision & automation |
+| **Lane-Aware Autonomous Parking** | CV, Lane Detection, Python | Smart parking system with lane-awareness logic       |
 
 ---
 
 ## 💬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arjunistra)
-- 🧠 Collaborations welcome – especially in AI, IoT & research
-- 📬 Drop a message if you want to work together on something cool!
+- 🌐 Portfolio (coming soon)
+- 🤝 Open to collaboration in AI, ML, and game dev projects  
+- 📫 Reach me via GitHub or LinkedIn
 
 ---
 
-> *“Code for purpose, learn with curiosity, and build for the future.”* – Arjunistra
+> *“Code with purpose. Build with passion. Learn endlessly.”* – Arjun Mishra
