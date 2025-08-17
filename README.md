@@ -34,7 +34,7 @@
 
 | Project                                | Tech Stack                      | Description | Results/Impact | Link |
 |----------------------------------------|----------------------------------|-------------|----------------|------|
-| **Forest Fire Prediction (FWI)**       | Ridge Regression, Flask, Sklearn | Predicted Fire Weather Index using Algerian dataset | R² ≈ 0.82, RMSE ≈ 3.5 | [Repo](https://github.com/Arjun-Mishra-29/Test-Forest-Fire-Analysis) |
+| **Forest Fire Prediction (FWI)**       | Ridge Regression, Flask, Sklearn | Predicted Fire Weather Index using Algerian dataset | R² ≈ 0.984, MAE ≈ 0.561 | [Repo](https://github.com/Arjun-Mishra-29/Test-Forest-Fire-Analysis) |
 | **Play Store Apps EDA**                | Python, Pandas, Seaborn, Matplotlib | EDA & feature engineering on Play Store dataset | Found paid apps avg. 25% higher rating | [Repo](#) |
 | **Flight Price Prediction (Data Prep)**| Python, Pandas, Numpy           | Data cleaning & feature engineering for flight prices | Engineered 8 new features, 95% missing values handled | [Repo](#) |
 
