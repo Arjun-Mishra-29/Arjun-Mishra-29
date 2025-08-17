@@ -1,43 +1,22 @@
-# 👋 Hey, I'm Arjun Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+👋 Hey, I'm Arjun Mishra
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Data+Science+Learner;Game+Dev+Explorer" alt="Typing SVG" /> </p>
+🎯 Focused Areas
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Machine+Learning+Explorer;Game+Developer" alt="Typing SVG" />
-</p>
+🤖 Artificial Intelligence & Machine Learning – building predictive models & smart assistants
 
----
+📊 Data Science & Analytics – EDA, feature engineering, and data-driven insights
 
-## 🔬 Focus Areas
+🎮 Game Development & 3D Modeling – creating interactive games with Unity and Blender
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-  - Smart assistants like **Project JARVIS**
-  - Predictive models with **TensorFlow**, **PyTorch**, **Scikit-learn**
+⚡ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/> </p>
+🚀 Featured Projects
+Project	Tech Stack	Description	Results/Impact	Link
+Forest Fire Prediction (FWI)	Ridge Regression, Flask, Sklearn	Predicted Fire Weather Index using Algerian dataset	R² ≈ 0.82, RMSE ≈ 3.5	Repo
+Play Store Apps EDA	Python, Pandas, Seaborn, Matplotlib	EDA & feature engineering on Play Store dataset	Found paid apps avg. 25% higher rating	Repo
+Flight Price Prediction (Data Prep)	Python, Pandas, Numpy	Data cleaning & feature engineering for flight prices	Engineered 8 new features, 95% missing values handled	Repo
+💬 Let's Connect!
 
-- 🎮 **Game Dev & 3D Modeling**
-  - Exploring **Unity** for interactive game environments  
-  - Designing and animating assets using **Blender**
+💼 LinkedIn
 
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/70828580/136641796-5bdf0413-cb4a-4f2e-9c5b-45c41e42f379.gif" width="300" />
-</p>
-
-## 🚀 Key Projects
-
-| Project              | Tech Stack             | Description                                          |
-|----------------------|-----------------------|----------------------------------------------------|
-| **Project JARVIS**   | Python, NLP, AI       | Personal AI assistant with voice, vision & automation |
-| **Lane-Aware Autonomous Parking** | CV, Lane Detection, Python | Smart parking system with lane-awareness logic       |
-
----
-
-## 💬 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/arjunistra)
-- 🌐 Portfolio (coming soon)
-- 🤝 Open to collaboration in AI, ML, and game dev projects  
-- 📫 Reach me via GitHub or LinkedIn
-
----
-
-> *“Code with purpose. Build with passion. Learn endlessly.”* – Arjun Mishra
+📫 Reach me here on GitHub or via LinkedIn
